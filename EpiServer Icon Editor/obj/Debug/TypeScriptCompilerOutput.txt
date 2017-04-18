@@ -1,0 +1,36 @@
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialogContent.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\selectionDialog.js.map
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js
+E:\DojoEditors\DojoEditors\DojoEditors\ClientResources\iconselector\editor.js.map
+E:\DojoEditors\EPiServer-Dojo-Editors\EpiServer Icon Editor\ClientResources\iconselector\selectionDialogContent.js
+E:\DojoEditors\EPiServer-Dojo-Editors\EpiServer Icon Editor\ClientResources\iconselector\selectionDialogContent.js.map
+E:\DojoEditors\EPiServer-Dojo-Editors\EpiServer Icon Editor\ClientResources\iconselector\selectionDialog.js
+E:\DojoEditors\EPiServer-Dojo-Editors\EpiServer Icon Editor\ClientResources\iconselector\selectionDialog.js.map
+E:\DojoEditors\EPiServer-Dojo-Editors\EpiServer Icon Editor\ClientResources\iconselector\editor.js
+E:\DojoEditors\EPiServer-Dojo-Editors\EpiServer Icon Editor\ClientResources\iconselector\editor.js.map

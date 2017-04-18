@@ -1,0 +1,101 @@
+﻿
+.icon-wrapper {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    width: 25%;
+}
+
+.icon-link {
+        overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    color: #222222;
+    line-height: 32px;
+    height: 32px;
+    padding-left: 10px;
+    border-radius: 4px;
+}
+.icon-link:hover {
+    cursor: pointer;
+    background-color: #1d9d74;
+    color: #ffffff !important;
+    text-decoration: none;
+}
+.icon-link:hover .fa {
+    color: #ffffff;
+    font-size: 22px;
+  
+} 
+.icon-link .fa {
+    padding-right: 5px;
+}
+
+.icon-link:hover .glyphicon {
+    color: #ffffff;
+    font-size: 22px;
+  
+} 
+.icon-link .glyphicon {
+    padding-right: 5px;
+}
+
+.activeIcon .icon-link {
+     background-color: #1d9d74;
+    color: #ffffff !important;
+}
+#search {
+    position: relative;
+    font-size: 18px;
+    padding-left: 5px;
+    /*padding-top: 40px;
+    margin: -20px auto 0px;*/
+}
+
+#search label {
+    position: absolute;
+    left: 15px;
+    top: 5px;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+
+#search #search-input, #search .hint {
+          padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    padding-left: 43px;
+    padding-right: 43px;
+    width: 300px;
+    height: 34px;
+    margin-bottom: 15px;
+}
+.input-lg {
+    height: 46px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+#iconContainer {
+    overflow: hidden;
+}
+
+.min500 {
+    min-height: 500px;
+}

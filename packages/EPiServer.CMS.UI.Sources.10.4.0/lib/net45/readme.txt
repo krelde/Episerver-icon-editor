@@ -1,0 +1,1 @@
+Placeholder to make Nuget consider this package as being installed.
