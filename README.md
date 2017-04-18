@@ -3,6 +3,8 @@ Episerver icon editor written in dojo (with typescript). Editor can support mult
 
 
 ## Dialog
+![alt tag](https://raw.githubusercontent.com/krelde/Episerver-icon-editor/master/readme/select.png)
+
 ![alt tag](https://raw.githubusercontent.com/krelde/Episerver-icon-editor/master/readme/dialog.png)
 
 ## Search
