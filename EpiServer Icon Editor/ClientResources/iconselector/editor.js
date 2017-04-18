@@ -2,12 +2,12 @@ define(["require", "exports", "dojo/_base/declare", "dojo/cache", "dijit/_Widget
     var IconSelectorWidget = (function () {
         function IconSelectorWidget() {
             this.templateString = cache("iconselector", "templates/default.html");
-            //It is possible to add multiple links here.
+          
             this.iconCssLinks = ["http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
                 "http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"];
             this.isShowingChildDialog = false;
         }
-        //#1 from widget base 
+     
         IconSelectorWidget.prototype.postMixInProperties = function () {
             var head = document.getElementsByTagName('head')[0];
             for (var i = 0; i < this.iconCssLinks.length; i++) {
@@ -18,21 +18,21 @@ define(["require", "exports", "dojo/_base/declare", "dojo/cache", "dijit/_Widget
                 link.media = 'all';
                 head.appendChild(link);
             }
-            //Allwayse run. This calls the base implementation. 
+          
             this.inherited(arguments);
         };
         ;
-        //#2 from widget base 
+
         IconSelectorWidget.prototype.buildRendering = function () {
             this.inherited(arguments);
         };
         ;
-        //#3 from widget base 
+
         IconSelectorWidget.prototype.postCreate = function () {
             this.inherited(arguments);
         };
         ;
-        //4# from widget base 
+     
         IconSelectorWidget.prototype.startup = function () {
             this.inherited(arguments);
         };

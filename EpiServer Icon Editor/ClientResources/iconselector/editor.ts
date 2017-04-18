@@ -1,7 +1,6 @@
 ﻿import _declare = require("dojo/_base/declare");
 import cache = require("dojo/cache");
 import _WidgetBase = require("dijit/_WidgetBase");
-//This is added to do  'onBlur' to trigger a change in EPiServer. When using _WidgetBase insted of _Widget you have to add this trigger onBlur
 import _FocusMixin = require("dijit/_FocusMixin");
 import _TemplatedMixin = require("dijit/_TemplatedMixin");
 import _WidgetsInTemplateMixin = require("dijit/_WidgetsInTemplateMixin");
@@ -29,7 +28,6 @@ class IconSelectorWidget {
     dialog: any;
     isShowingChildDialog: any = false;
 
-    //#1 from widget base 
     public postMixInProperties() {
         var head = document.getElementsByTagName('head')[0];
         for (var i: number = 0; i < this.iconCssLinks.length; i++) {
@@ -39,22 +37,18 @@ class IconSelectorWidget {
             link.href = this.iconCssLinks[i];
             link.media = 'all';
             head.appendChild(link);
-        }
-        //Allwayse run. This calls the base implementation. 
+        } 
         this.inherited(arguments);
     };
 
-    //#2 from widget base 
     public buildRendering() {
         this.inherited(arguments);
     };
 
-    //#3 from widget base 
     public postCreate() {
         this.inherited(arguments);
     };
 
-    //4# from widget base 
     public startup() {
         this.inherited(arguments);
     };
